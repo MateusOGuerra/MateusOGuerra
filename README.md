@@ -49,6 +49,7 @@ Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -57,7 +58,6 @@ Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
  
 <br/>
 <br/>
