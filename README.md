@@ -5,22 +5,22 @@
 Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo, com o curso técnico em informática. Atualmente, estou cursando Ciências Da Computação na Faculdade Impacta de Tecnologia. Sou apaixonado por tecnologia, então neste perfil reúno meus projetos acadêmicos e pessoais, demonstrando minha evolução na área de desenvolvimento de software.
 
 
-    <a href="https://github.com/MateusOGuerra?tab=repositories&sort=stargazers">
+     <a href="https://github.com/MateusOGuerra?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/MateusOGuerra?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/MateusOGuerra?tab=followers">
+    <a href="https://github.com/MateuOGuerra?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MateusOGuerra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+            src="https://custom-icon-badges.demolab.com/github/followers/MateusOGuerra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white
+         />
     </a>
 </p>
-<a href="https://github.com/DenverCoder1/Simple-View-Counter">
+<a href="https://github.com/MateusOGuerra/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MateusOGuerra-profile-views"/></a>
 </p>
 
@@ -71,14 +71,6 @@ Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo,
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -87,27 +79,11 @@ Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo,
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img
-    align="left"
-    alt="SQLDatabase"
-    title="SQLDatabase
-    Width="30px"
-    style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
  />
           
           
