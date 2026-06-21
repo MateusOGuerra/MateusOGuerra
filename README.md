@@ -131,5 +131,3 @@ Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo,
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOGuerra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
