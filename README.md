@@ -4,26 +4,6 @@
 
 Me chamo Mateus Oliveira Guerra, tenho 18 anos e sou natural de SP - São Paulo, com o curso técnico em informática. Atualmente, estou cursando Ciências Da Computação na Faculdade Impacta de Tecnologia. Sou apaixonado por tecnologia, então neste perfil reúno meus projetos acadêmicos e pessoais, demonstrando minha evolução na área de desenvolvimento de software.
 
-
-     <a href="https://github.com/MateusOGuerra?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MateusOGuerra?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MateuOGuerra?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MateusOGuerra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white
-         />
-    </a>
-</p>
-<a href="https://github.com/MateusOGuerra/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MateusOGuerra-profile-views"/></a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
